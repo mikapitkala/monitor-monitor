@@ -31,12 +31,12 @@ This is fine at home, but quite annoying if you happen to be:
 3. Windows Defender should make some noise about not running weird files you got off the Internet. Technically, Windows Defender is correct, you probably *shouldn't* run weird things you download online, but you can click on **More Information** and then **Run Anyway**, if you're feeling particularly confident.
 
 ### Option 2: Run from Source
-\`\`\`bash
+```bash
 git clone https://github.com/mikapitkala/monitor-monitor
 cd monitor-monitor
 pip install -r requirements.txt
 python -m monitor_monitor
-\`\`\`
+```
 
 ## Usage
 

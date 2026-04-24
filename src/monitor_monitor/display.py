@@ -1,0 +1,1 @@
+"""Display mode switching via DisplaySwitch.exe."""

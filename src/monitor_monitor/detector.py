@@ -1,0 +1,1 @@
+"""Monitor detection via WMI (PowerShell)."""

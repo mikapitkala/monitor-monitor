@@ -17,9 +17,9 @@
       "border_width": 2,
       "font" : ["Ubuntu Bold", 18],
       "fg_color": "transparent",
-      "hover_color": ["#12ABDB", "#FFFFFF"],
-      "border_color": ["#0070AD", "#FFFFFF"],
-      "text_color": ["#0070AD", "#FFFFFF"],
+      "hover_color": ["#38BDF8", "#FFFFFF"],
+      "border_color": ["#0A84FF", "#FFFFFF"],
+      "text_color": ["#0A84FF", "#FFFFFF"],
       "text_color_disabled": ["gray74", "gray60"]
     },
     "CTkLabel": {
@@ -114,11 +114,11 @@
       "border_width": 2,
       "font": ["Ubuntu", 18],
       "fg_color": ["#F5F5F7", "#2B0A3D"],
-      "selected_color": ["#0070AD", "#FFFFFF"],
-      "selected_hover_color": ["#0070AD", "#FFFFFF"],
+      "selected_color": ["#0A84FF", "#FFFFFF"],
+      "selected_hover_color": ["#0A84FF", "#FFFFFF"],
       "unselected_color": ["#F5F5F7", "#2B0A3D"],
-      "unselected_hover_color": ["#0070AD", "#FFFFFF"],
-      "text_color": ["#0070AD", "#FFFFFF"],
+      "unselected_hover_color": ["#0A84FF", "#FFFFFF"],
+      "text_color": ["#0A84FF", "#FFFFFF"],
       "text_color_disabled": ["gray74", "gray60"]
     },
     "CTkTextbox": {

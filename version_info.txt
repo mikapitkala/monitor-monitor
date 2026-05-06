@@ -1,0 +1,34 @@
+# UTF-8
+#
+# Windows executable version info. PyInstaller reads this and embeds it
+
+VSVersionInfo(
+  ffi=FixedFileInfo(
+    filevers=(0, 1, 0, 0),
+    prodvers=(0, 1, 0, 0),
+    mask=0x3f,
+    flags=0x0,
+    OS=0x40004,
+    fileType=0x1,
+    subtype=0x0,
+    date=(0, 0),
+  ),
+  kids=[
+    StringFileInfo(
+      [
+        StringTable(
+          '040904B0',
+          [
+            StringStruct('FileDescription', 'Monitors monitor count changes and switches display modes'),
+            StringStruct('FileVersion', '0.1.0'),
+            StringStruct('InternalName', 'monitor-monitor'),
+            StringStruct('OriginalFilename', 'monitor-monitor.exe'),
+            StringStruct('ProductName', 'Monitor Monitor'),
+            StringStruct('ProductVersion', '0.1.0'),
+          ]
+        )
+      ]
+    ),
+    VarFileInfo([VarStruct('Translation', [0x0409, 0x04B0])])
+  ]
+)
